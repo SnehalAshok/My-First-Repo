@@ -1,0 +1,10 @@
+Learning Git Commands:
+Git Init
+Git Status
+Git Add
+Git Commit -m "add comment"
+git config --global name.user " ____"
+git log
+man git
+git config --global name.email " ____"
+git log -l
